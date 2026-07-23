@@ -20,23 +20,23 @@ namespace Ordering.Data
             {
                 new()
                 {
-                    UserName = "rahul",
-                    FirstName = "Rahul",
-                    LastName = "Sahay",
-                    EmailAddress = "rahulsahay@eCommerce.net",
-                    AddressLine = "Bangalore",
-                    Country = "India",
+                    UserName = "peter",
+                    FirstName = "Peter",
+                    LastName = "Parker",
+                    EmailAddress = "peterparker@eCommerce.net",
+                    AddressLine = "New York",
+                    Country = "USA",
                     TotalPrice = 750,
                     State = "KA",
                     ZipCode = "560001",
 
                     CardName = "Visa",
                     CardNumber = "4111111111111111",
-                    CreatedBy = "Rahul",
+                    CreatedBy = "Peter",
                     Expiration = "12/25",
                     Cvv = "123",
                     PaymentMethod = 1,
-                    LastModifiedBy = "Rahul",
+                    LastModifiedBy = "Peter",
                     LastModifiedDate = new DateTime(),
                 }
             };
